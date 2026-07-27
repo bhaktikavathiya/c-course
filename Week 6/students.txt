@@ -1,7 +1,3 @@
-Name: Bhakti
-Roll No: 1
-Marks: 90.00
-
-Name: Raj
-Roll No: 2
-Marks: 78.00
+Bhakti 2 90.00
+Raj 2 89.00
+Mansi 3 80.00
